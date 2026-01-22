@@ -157,75 +157,47 @@
 
 
 <script>
+let games = [];
 
-const games = [
-
-    { name: "Little Action", age: "2-4", time: 15, style: "kompetitivní", themes: ["zvířata"] },
-
-    { name: "Ice Cool", age: "5-7", time: 20, style: "kompetitivní", themes: ["zvířata", "postřeh"] },
-
-    { name: "Spící královny", age: "5-7", time: 20, style: "kompetitivní", themes: ["pohádky"] },
-
-    { name: "Jeníček a Mařenka", age: "5-7", time: 15, style: "kooperativní", themes: ["pohádky", "paměť"] },
-
-    { name: "Memoarrr!", age: "8-10", time: 30, style: "kompetitivní", themes: ["zvířata", "paměť"] },
-
-    { name: "Městečka na dlani", age: "15+", time: 60, style: "kompetitivní", themes: ["logika"] }
-
-];
-
-
+fetch("games.json")
+  .then(response => response.json())
+  .then(data => {
+    games = data;
+    console.log("Hry načteny:", games.length);
+  })
+  .catch(err => {
+    alert("Nepodařilo se načíst games.json");
+    console.error(err);
+  });
 
 function filterGames() {
+  const age = document.getElementById("age").value;
+  const time = document.getElementById("time").value;
+  const style = document.getElementById("style").value;
+  const theme = document.getElementById("theme").value;
+  const mainTheme = document.getElementById("mainTheme")?.value;
 
-    const age = document.getElementById("age").value;
+  const results = games.filter(g =>
+    (!age || g.age === age) &&
+    (!time || g.time <= time) &&
+    (!style || g.style === style) &&
+    (!mainTheme || g.mainTheme === mainTheme) &&
+    (!theme || g.tags.includes(theme))
+  );
 
-    const time = document.getElementById("time").value;
+  const ul = document.getElementById("results");
+  ul.innerHTML = "";
 
-    const style = document.getElementById("style").value;
-
-    const theme = document.getElementById("theme").value;
-
-
-
-    const results = games.filter(g =>
-
-        (!age || g.age === age) &&
-
-        (!time || g.time <= time) &&
-
-        (!style || g.style === style) &&
-
-        (!theme || g.themes.includes(theme))
-
-    );
-
-
-
-    const ul = document.getElementById("results");
-
-    ul.innerHTML = "";
-
-
-
-    if (results.length === 0) {
-
-        ul.innerHTML = "<li>Žádná hra neodpovídá výběru.</li>";
-
-    } else {
-
-        results.forEach(g => {
-
-            const li = document.createElement("li");
-
-            li.textContent = `${g.name} (${g.time} min)`;
-
-            ul.appendChild(li);
-
-        });
-
-    }
-
+  if (results.length === 0) {
+    ul.innerHTML = "<li>Žádná hra neodpovídá výběru.</li>";
+  } else {
+    results.forEach(g => {
+      const li = document.createElement("li");
+      li.innerHTML = `<strong>${g.name}</strong> (${g.time} min)
+        <br><a href="${g.sourceUrl}" target="_blank">detail hry</a>`;
+      ul.appendChild(li);
+    });
+  }
 }
 
 </script>
