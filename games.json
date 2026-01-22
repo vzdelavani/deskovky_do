@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Únikovka: Útěk na západ",
+    "age": "12-14",
+    "time": 60,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["útěková", "historie"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/unikovka-utek-na-zapad-12891/"
+  },
+  {
+    "name": "Únikovka: Operace Anthropoid",
+    "age": "12-14",
+    "time": 60,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["útěková", "historie", "2.světová válka"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/unikovka-operace-anthropoid-14762/"
+  },
+  {
+    "name": "Únikovka: Kafka",
+    "age": "15+",
+    "time": 60,
+    "style": "kooperativní",
+    "mainTheme": "příběhová",
+    "tags": ["útěková", "literatura"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/unikovka-kafka-16921/"
+  },
+  {
+    "name": "Únikovka: Rychlé šípy – Tleskač",
+    "age": "10-12",
+    "time": 60,
+    "style": "kooperativní",
+    "mainTheme": "dobrodružná",
+    "tags": ["útěková", "komiks", "záhada"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/unikovka-rychle-sipy-tleskac-16118/"
+  },
+  {
+    "name": "Detektivní únikovka: Sluneční ostrov I – Bez známek života",
+    "age": "12-14",
+    "time": 90,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["útěková", "série"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/detektivni-unikovka-slunecni-ostrov-dil-1-bez-znamek-zivota-15742/"
+  },
+  {
+    "name": "Detektivní únikovka: Sluneční ostrov II – Pod povrchem",
+    "age": "12-14",
+    "time": 90,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["útěková", "série"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/detektivni-unikovka-slunecni-ostrov-dil-2-pod-povrchem-15741/"
+  },
+  {
+    "name": "Detektivní únikovka: Sluneční ostrov III – Poslední pouť",
+    "age": "12-14",
+    "time": 90,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["útěková", "série"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/detektivni-unikovka-slunecni-ostrov-dil-3-posledni-pout-15740/"
+  },
+  {
+    "name": "Únikovka: Souboj posádek",
+    "age": "10-12",
+    "time": 45,
+    "style": "kompetitivní",
+    "mainTheme": "dobrodružná",
+    "tags": ["útěková", "vesmír"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/unikovka-souboj-posadek-13292/"
+  },
+  {
+    "name": "Únikovka: Blackout v Tokiu",
+    "age": "12-14",
+    "time": 60,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["útěková", "město", "katastrofa"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/unikovka-blackout-v-tokiu-15506/"
+  },
+  {
+    "name": "Party Trefa!",
+    "age": "10-12",
+    "time": 15,
+    "style": "party",
+    "mainTheme": "party",
+    "tags": ["postřeh", "rychlá"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/party-trefa-13105/"
+  },
+  {
+    "name": "Výprava",
+    "age": "8-10",
+    "time": 20,
+    "style": "kooperativní",
+    "mainTheme": "dobrodružná",
+    "tags": ["cestování", "příběh"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/vyprava-12907/"
+  },
+  {
+    "name": "Čaroděj",
+    "age": "8-10",
+    "time": 30,
+    "style": "kompetitivní",
+    "mainTheme": "logická",
+    "tags": ["fantasy", "paměť"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/carodej-177/"
+  },
+  {
+    "name": "Rummikub",
+    "age": "8-10",
+    "time": 45,
+    "style": "kompetitivní",
+    "mainTheme": "logická",
+    "tags": ["čísla", "klasika"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/rummikub-1765/"
+  },
+  {
+    "name": "To jsi přehnal!",
+    "age": "12-14",
+    "time": 15,
+    "style": "party",
+    "mainTheme": "party",
+    "tags": ["humor", "rychlá"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/tos-prehnal-15928/"
+  },
+  {
+    "name": "To jsi přehnal! Česko",
+    "age": "12-14",
+    "time": 15,
+    "style": "party",
+    "mainTheme": "party",
+    "tags": ["humor", "česko"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/tos-prehnal-cesko-15929/"
+  },
+  {
+    "name": "Detektivka: Krvavě rudé růže",
+    "age": "15+",
+    "time": 90,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["vyšetřování", "příběh"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/detektivka-krvave-rude-ruze-10334/"
+  },
+  {
+    "name": "Změňte osud: Strouha plná krve",
+    "age": "15+",
+    "time": 90,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["příběh", "rozhodování"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/zmente-osud-strouha-plna-krve-9385/"
+  },
+  {
+    "name": "Detektivka do kapsy: Vražda na univerzitě",
+    "age": "12-14",
+    "time": 60,
+    "style": "kooperativní",
+    "mainTheme": "detektivní",
+    "tags": ["vyšetřování", "kapsová"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/detektivka-do-kapsy-vrazda-na-univerzite-10704/"
+  },
+  {
+    "name": "Máme rádi Česko",
+    "age": "10-12",
+    "time": 30,
+    "style": "party",
+    "mainTheme": "party",
+    "tags": ["vědomostní", "česko"],
+    "sourceUrl": "https://www.zatrolene-hry.cz/spolecenska-hra/mame-radi-cesko-10640/"
+  }
+]
+
