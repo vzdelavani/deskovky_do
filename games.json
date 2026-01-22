@@ -512,6 +512,7 @@
   "mira_premysleni": "přemýšlecí hra",
   "typ_hry": ["deduktivní"],
   "tema": "detektivní"
+},
 {
   "id": 58,
   "nazev": "Rising Sun",
@@ -523,6 +524,7 @@
 }
   ]
 }
+
 
 
 
