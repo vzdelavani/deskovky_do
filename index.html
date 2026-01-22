@@ -3,77 +3,64 @@
 <head>
   <meta charset="UTF-8">
   <title>Výběr deskových her</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    .filter-table {
+      max-width: 500px;
+    }
+
+    .filter-row {
+      display: grid;
+      grid-template-columns: 180px 1fr;
+      align-items: center;
+      margin-bottom: 12px;
+      gap: 10px;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    select {
+      padding: 6px;
+      font-size: 14px;
+    }
+
+    .actions {
+      margin-top: 20px;
+    }
+
+    button {
+      padding: 8px 16px;
+      font-size: 15px;
+      cursor: pointer;
+    }
+  </style>
 </head>
 <body>
 
 <h1>Vyberte deskovou hru</h1>
 
-<form id="filters">
+<form id="filters" class="filter-table">
 
-  <!-- Počet hráčů -->
-  <label for="pocet-hracu">Počet hráčů</label>
-  <select id="pocet-hracu">
-    <option value="">Nezáleží</option>
-    <option value="pro jednoho">Pro jednoho</option>
-    <option value="pro dva">Pro dva</option>
-    <option value="malá skupina (3-4)">Malá skupina (3–4)</option>
-    <option value="větší skupina (5+)">Větší skupina (5+)</option>
-  </select>
+  <div class="filter-row">
+    <label for="pocet-hracu">Počet hráčů</label>
+    <select id="pocet-hracu">
+      <option value="">Nezáleží</option>
+      <option value="pro jednoho">Pro jednoho</option>
+      <option value="pro dva">Pro dva</option>
+      <option value="malá skupina (3-4)">Malá skupina (3–4)</option>
+      <option value="větší skupina (5+)">Větší skupina (5+)</option>
+    </select>
+  </div>
 
-  <!-- Herní doba -->
-  <label for="herni-doba">Herní doba</label>
-  <select id="herni-doba">
-    <option value="">Nezáleží</option>
-    <option value="do 30 minut">Do 30 minut</option>
-    <option value="30-60 minut">30–60 minut</option>
-    <option value="60-120 minut">60–120 minut</option>
-    <option value="120+ minut">120+ minut</option>
-  </select>
-
-  <!-- Míra přemýšlení -->
-  <label for="mira-premysleni">Kolik u hry chcete přemýšlet?</label>
-  <select id="mira-premysleni">
-    <option value="">Nezáleží</option>
-    <option value="oddechová hra">Oddechová hra</option>
-    <option value="přemýšlecí hra">Přemýšlecí hra</option>
-    <option value="náročná hra">Náročná hra</option>
-  </select>
-
-  <!-- Typ hry -->
-  <label for="typ-hry">Typ hry</label>
-  <select id="typ-hry">
-    <option value="">Nezáleží</option>
-    <option value="kooperativní">Kooperativní</option>
-    <option value="deduktivní">Deduktivní</option>
-    <option value="postřehová">Postřehová</option>
-    <option value="vědomostní">Vědomostní</option>
-    <option value="strategická">Strategická</option>
-    <option value="ekonomická">Ekonomická</option>
-    <option value="příběhová">Příběhová</option>
-    <option value="rodinná">Rodinná</option>
-    <option value="párty">Párty</option>
-    <option value="závodní">Závodní</option>
-    <option value="logická">Logická</option>
-  </select>
-
-  <!-- Téma -->
-  <label for="tema">Téma</label>
-  <select id="tema">
-    <option value="">Nezáleží</option>
-    <option value="historie">Historie</option>
-    <option value="fantasy">Fantasy</option>
-    <option value="scifi">Sci-fi</option>
-    <option value="zvířata">Zvířata</option>
-    <option value="sport">Sport</option>
-    <option value="vikingové">Vikingové</option>
-    <option value="příroda">Příroda</option>
-    <option value="popkultura">Popkultura</option>
-    <option value="dobrodružství">Dobrodružství</option>
-    <option value="abstraktní">Abstraktní</option>
-    <option value="současnost">Současnost</option>
-  </select>
-
-</form>
-
-</body>
-</html>
+  <div class="filter-row">
+    <label for="herni-doba">Herní doba</la
