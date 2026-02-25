@@ -68,7 +68,7 @@
     "nazev": "Únikovka: Souboj posádek",
     "pocet_hracu": ["pro dva", "mala skupina (3-4)","vetsi skupina (5+)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "ppremysleci hra",
+    "mira_premysleni": "premysleci hra",
     "typ_hry": ["zavodni", "deduktivni"],
     "tema": "hadanky"
   },
@@ -106,7 +106,7 @@
     "herni_doba": "30-60 minut",
     "mira_premysleni": "premysleci hra",
     "typ_hry": ["logicka", "rodinna"],
-    "tema": "fantasy"
+    "tema": "fantasy_mytologie"
   },
   {
     "id": 13,
@@ -149,7 +149,7 @@
     "nazev": "Změňte osud: Strouha plná krve",
     "pocet_hracu": ["pro jednoho","pro dva", "mala skupina (3-4)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "oddechova",
+    "mira_premysleni": "oddechova hra",
     "typ_hry": ["pribehova", "deduktivni"],
     "tema": "soucasnost"
   },
@@ -160,7 +160,7 @@
     "herni_doba": "30-60 minut",
     "mira_premysleni": "oddechova hra",
     "typ_hry": ["deduktivni"],
-    "tema": "detektivka"
+    "tema": "detektivni"
   },
   {
     "id": 19,
@@ -320,7 +320,7 @@
   "nazev": "Mozkovna: Záhadné případy",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "ppremysleci hra",
+  "mira_premysleni": "premysleci hra",
   "typ_hry": ["logicka", "deduktivni"],
   "tema": "hadanky"
 },
@@ -520,7 +520,7 @@
   "herni_doba": "120+ minut",
   "mira_premysleni": "narocna hra",
   "typ_hry": ["strategicka"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 59,
@@ -556,7 +556,7 @@
   "herni_doba": "do 30 minut",
   "mira_premysleni": "oddechova hra",
   "typ_hry": ["party", "rodinna"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 63,
@@ -574,7 +574,7 @@
   "herni_doba": "120+ minut",
   "mira_premysleni": "narocna hra",
   "typ_hry": ["kooperativni", "priběhova", "strategicka"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 65,
@@ -583,7 +583,7 @@
   "herni_doba": "120+ minut",
   "mira_premysleni": "narocna hra",
   "typ_hry": ["kooperativni", "pribehova", "strategicka"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 66,
@@ -601,7 +601,7 @@
   "herni_doba": "30-60 minut",
   "mira_premysleni": "oddechova hra",
   "typ_hry": ["logicka", "rodinna"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 68,
@@ -628,7 +628,7 @@
   "herni_doba": "30-60 minut",
   "mira_premysleni": "premysleci hra",
   "typ_hry": ["strategicka"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 71,
@@ -637,7 +637,7 @@
   "herni_doba": "120+ minut",
   "mira_premysleni": "narocna hra",
   "typ_hry": ["kooperativni", "pribehova", "strategicka"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 72,
@@ -772,7 +772,7 @@
   "herni_doba": "30-60 minut",
   "mira_premysleni": "premysleci hra",
   "typ_hry": ["pribehova", "rodinna"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 87,
@@ -871,7 +871,7 @@
   "herni_doba": "30-60 minut",
   "mira_premysleni": "oddechova hra",
   "typ_hry": ["party"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 98,
@@ -880,7 +880,7 @@
   "herni_doba": "30-60 minut",
   "mira_premysleni": "premysleci hra",
   "typ_hry": ["strategicka"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 99,
@@ -889,7 +889,7 @@
   "herni_doba": "60-120 minut",
   "mira_premysleni": "narocna hra",
   "typ_hry": ["strategicka"],
-  "tema": "fantasy"
+  "tema": "fantasy_mytologie"
 },
 {
   "id": 100,
@@ -914,7 +914,7 @@
   "nazev": "Valhalla",
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "ppremysleci hra",
+  "mira_premysleni": "premysleci hra",
   "typ_hry": ["strategicka"],
   "tema": "vikingove"
 },
@@ -995,7 +995,7 @@
     "nazev": "Osud dobrodruha",
     "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
     "herni_doba": "60+ minut",
-    "mira_premysleni": "oodechova_hra",
+    "mira_premysleni": "oodechova hra",
     "typ_hry": ["kooperativni", "deduktivni"],
     "tema": "fantasy_mytologie"
 },
@@ -1004,8 +1004,8 @@
     "nazev": "Moje kavárnička",
     "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "oodechova_hra",
-    "typ_hry": ["rodinne"],
+    "mira_premysleni": "oodechova hra",
+    "typ_hry": ["rodinna"],
     "tema": "jidlo"
   },
   {
@@ -1014,7 +1014,7 @@
     "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "do 30 minut",
     "mira_premysleni": "premysleci_hra",
-    "typ_hry": ["strategicke"],
+    "typ_hry": ["strategicka"],
     "tema": null
   },
   {
@@ -1022,13 +1022,14 @@
     "nazev": "Řekni to květinou",
     "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "do 15 minut",
-    "narocnost": "jednoducha",
-    "typ_hry": ["rodinne", "party"],
+    "mira_premysleni": "jednoducha",
+    "typ_hry": ["rodinna", "party"],
     "tema": "priroda"
   }
 
   ]
 }
+
 
 
 
