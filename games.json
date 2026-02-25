@@ -3,262 +3,262 @@
   {
     "id": 1,
     "nazev": "Únikovka: Útěk na západ",
-    "pocet_hracu": ["pro jednoho", "pro dva","malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva","mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní","příběhová"],
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["kooperativni", "deduktivni","pribehova"],
     "tema": "historie"
   },
   {
     "id": 2,
     "nazev": "Únikovka: Operace Anthropoid",
-    "pocet_hracu": ["pro jednoho", "pro dva","malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva","mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
     "tema": "historie"
   },
   {
     "id": 3,
     "nazev": "Únikovka: Kafka",
-    "pocet_hracu": ["pro jednoho", "pro dva","malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva","mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-    "tema": "hádanky"
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
+    "tema": "hadanky"
   },
   {
     "id": 4,
     "nazev": "Únikovka: Rychlé šípy – Tleskač",
-    "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
     "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-    "tema": "hádanky"
+    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+    "tema": "hadanky"
   },
   {
     "id": 5,
     "nazev": "Detektivní únikovka: Sluneční ostrov – Bez známek života",
-    "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-    "tema": "detektivní"
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+    "tema": "detektivni"
   },
   {
     "id": 6,
     "nazev": "Detektivní únikovka: Sluneční ostrov – Pod povrchem",
-    "pocet_hracu": ["pro jednoho", "pro dva","malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva","mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-    "tema": "detektivní"
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+    "tema": "detektivni"
   },
   {
     "id": 7,
     "nazev": "Detektivní únikovka: Sluneční ostrov – Poslední pouť",
-    "pocet_hracu": ["pro jednoho", "pro dva","malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva","mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-    "tema": "detektivní"
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
+    "tema": "detektivni"
   },
   {
     "id": 8,
     "nazev": "Únikovka: Souboj posádek",
-    "pocet_hracu": ["pro dva", "malá skupina (3-4)","větší skupina (5+)"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)","vetsi skupina (5+)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["závodní", "deduktivní"],
-    "tema": "hádanky"
+    "mira_premysleni": "ppremysleci hra",
+    "typ_hry": ["zavodni", "deduktivni"],
+    "tema": "hadanky"
   },
   {
     "id": 9,
     "nazev": "Únikovka: Blackout v Tokiu",
-    "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["kooperativní", "deduktivní"],
-    "tema": "hádanky"
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["kooperativni", "deduktivni"],
+    "tema": "hadanky"
   },
   {
     "id": 10,
     "nazev": "Párty trefa",
-    "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "do 30 minut",
-    "mira_premysleni": "oddechová hra",
-    "typ_hry": ["párty", "postřehová"],
+    "mira_premysleni": "oddechova hra",
+    "typ_hry": ["party", "postrehova"],
     "tema": "popkultura"
   },
   {
     "id": 11,
     "nazev": "Výprava",
-    "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["strategická", "deduktivní"],
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["strategicka", "deduktivni"],
     "tema": "fantasy"
   },
   {
     "id": 12,
     "nazev": "Čaroděj",
-    "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["logická", "rodinná"],
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["logicka", "rodinna"],
     "tema": "fantasy"
   },
   {
     "id": 13,
     "nazev": "Rummikub",
-    "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["logická", "rodinná"],
-    "tema": "abstraktní"
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["logicka", "rodinna"],
+    "tema": "abstraktni"
   },
   {
     "id": 14,
     "nazev": "To jsi přehnal!",
-    "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "do 30 minut",
-    "mira_premysleni": "oddechová hra",
-    "typ_hry": ["párty", "vědomostní"],
+    "mira_premysleni": "oddechova hra",
+    "typ_hry": ["party", "vedomostni"],
     "tema": "popkultura"
   },
   {
     "id": 15,
     "nazev": "To jsi přehnal! Česko",
-    "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+    "pocet_hracu": ["malá skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "do 30 minut",
-    "mira_premysleni": "oddechová hra",
-    "typ_hry": ["párty", "vědomostní"],
+    "mira_premysleni": "oddechova hra",
+    "typ_hry": ["party", "vedomostni"],
     "tema": "popkultura"
   },
   {
     "id": 16,
     "nazev": "Detektivka: Krvavě rudé růže",
-    "pocet_hracu": ["pro jednoho","pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho","pro dva", "mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
-    "mira_premysleni": "přemýšlecí hra",
-    "typ_hry": ["deduktivní", "příběhová"],
-    "tema": "detektivní"
+    "mira_premysleni": "premysleci hra",
+    "typ_hry": ["deduktivni", "priběhova"],
+    "tema": "detektivni"
   },
   {
     "id": 17,
     "nazev": "Změňte osud: Strouha plná krve",
-    "pocet_hracu": ["pro jednoho","pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro jednoho","pro dva", "mala skupina (3-4)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "oddechová",
-    "typ_hry": ["příběhová", "deduktivní"],
-    "tema": "současnost"
+    "mira_premysleni": "oddechova",
+    "typ_hry": ["pribehova", "deduktivni"],
+    "tema": "soucasnost"
   },
   {
     "id": 18,
     "nazev": "Detektivka do kapsy: Vražda na univerzitě",
-    "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "oddechová hra",
-    "typ_hry": ["deduktivní"],
+    "mira_premysleni": "oddechova hra",
+    "typ_hry": ["deduktivni"],
     "tema": "detektivka"
   },
   {
     "id": 19,
     "nazev": "Máme rádi Česko",
-    "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+    "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "oddechová hra",
-    "typ_hry": ["vědomostní", "párty"],
+    "mira_premysleni": "oddechova hra",
+    "typ_hry": ["vedomostni", "party"],
     "tema": "popkultura"
   },
 {
   "id": 20,
   "nazev": "Arboretum",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická", "logická"],
-  "tema": "příroda"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka", "logicka"],
+  "tema": "priroda"
 },
 {
   "id": 21,
   "nazev": "Kaskádie",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická", "rodinná", "logická"],
-  "tema": "příroda"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka", "rodinna", "logicka"],
+  "tema": "priroda"
 },
 {
   "id": 22,
   "nazev": "Pelíšek",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["párty", "rodinná"],
-  "tema": "zvířata"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["party", "rodinna"],
+  "tema": "zvirata"
 },
 {
   "id": 23,
   "nazev": "Tipni si! Na cesty – Ohrožená planeta",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "párty"],
-  "tema": "příroda"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "party"],
+  "tema": "priroda"
 },
 {
   "id": 24,
   "nazev": "Paměťovky: Fialová kosatka",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["postřehová", "rodinná"],
-  "tema": "zvířata"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["postrehova", "rodinna"],
+  "tema": "zvirata"
 },
 {
   "id": 25,
   "nazev": "Paměťovky: Podezřelá husa",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["postřehová", "rodinná"],
-  "tema": "zvířata"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["postrehova", "rodinna"],
+  "tema": "zvirata"
 },
 {
   "id": 26,
   "nazev": "Paměťovky: Prase v přestrojení",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["postřehová", "rodinná"],
-  "tema": "zvířata"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["postrehovaá", "rodinna"],
+  "tema": "zvirata"
 },
 {
   "id": 27,
   "nazev": "Tipni si! Na cesty – Legendy sportu",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "party"],
   "tema": "sport"
 },
 {
   "id": 28,
   "nazev": "Tipni si! Na cesty – Na stříbrném plátně",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "party"],
   "tema": "popkultura"
 },
 {
   "id": 29,
   "nazev": "Tipni si! Na cesty – Nekonečný vesmír",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "party"],
   "tema": "scifi"
 },
 {
@@ -266,80 +266,80 @@
   "nazev": "Prolom kód",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["logická"],
-  "tema": "abstraktní"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["logicka"],
+  "tema": "abstraktni"
 },
 {
   "id": 31,
   "nazev": "Sherlock Holmes: Trojitá výzva",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["deduktivní", "logická"],
-  "tema": "abstraktní"
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["deduktivni", "logicka"],
+  "tema": "abstraktni"
 },
 {
   "id": 32,
   "nazev": "IQ Fitness: Tangram",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["logická"],
-  "tema": "abstraktní"
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["logicka"],
+  "tema": "abstraktni"
 },
 {
   "id": 33,
   "nazev": "IQ Fitness: 3D Triangl",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["logická"],
-  "tema": "abstraktní"
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["logicka"],
+  "tema": "abstraktni"
 },
 {
   "id": 34,
   "nazev": "Luštovky – pokročilý",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["logická"],
-  "tema": "hádanky"
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["logicka"],
+  "tema": "hadanky"
 },
 {
   "id": 35,
   "nazev": "Luštovky – základní",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["logická"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["logicka"],
+  "tema": "hadanky"
 },
 {
   "id": 36,
   "nazev": "Mozkovna: Záhadné případy",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["logická", "deduktivní"],
-  "tema": "hádanky"
+  "mira_premysleni": "ppremysleci hra",
+  "typ_hry": ["logicka", "deduktivni"],
+  "tema": "hadanky"
 },
 {
   "id": 37,
   "nazev": "Všechny divy světa",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "rodinna"],
   "tema": null
 },
 {
   "id": 38,
   "nazev": "Cortex Challenge",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["postřehová", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["postrehova", "rodinna"],
   "tema": "popkultura"
 },
 {
@@ -347,260 +347,260 @@
   "nazev": "Unmatched: Souboj v mlze",
   "pocet_hracu": ["pro dva"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická"],
-  "tema": "dobrodružství"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka"],
+  "tema": "dobrodruzstvi"
 },
 {
   "id": 40,
   "nazev": "Prokletá stezka",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní"],
-  "tema": "dobrodružství"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni"],
+  "tema": "dobrodruzstvi"
 },
 {
   "id": 41,
   "nazev": "Dobrodružné výpravy: Vinland",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["strategická", "příběhová"],
-  "tema": "vikingové"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["strategicka", "pribehova"],
+  "tema": "vikingove"
 },
 {
   "id": 42,
   "nazev": "Similo: Strašidla",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["deduktivní", "kooperativní"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["deduktivni", "kooperativni"],
   "tema": "tajemno"
 },
 {
   "id": 43,
   "nazev": "Parky",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická", "rodinná"],
-  "tema": "příroda"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka", "rodinna"],
+  "tema": "priroda"
 },
 {
   "id": 44,
   "nazev": "Vinohrad",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "náročná hra",
-  "typ_hry": ["strategická", "ekonomická"],
-  "tema": "jídlo"
+  "typ_hry": ["strategicka", "ekonomicka"],
+  "tema": "jidlo"
 },
 {
   "id": 45,
   "nazev": "Zaostřeno na zločin: Vražedný autor",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["deduktivní", "příběhová"],
-  "tema": "detektivní"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["deduktivni", "priběhova"],
+  "tema": "detektivni"
 },
 {
   "id": 46,
   "nazev": "Brink: Ve vesmíru",
   "pocet_hracu": ["pro dva"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka"],
   "tema": "scifi"
 },
 {
   "id": 47,
   "nazev": "Znáte Česko?",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "rodinna"],
   "tema": "historie"
 },
 {
   "id": 48,
   "nazev": "Detektivní únikovka: Leopold – Kyvadlo zesnulých",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-  "tema": "detektivní"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
+  "tema": "detektivni"
 },
 {
   "id": 49,
   "nazev": "Únikovka: Prokletí sfingy",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni"],
+  "tema": "hadanky"
 },
 {
   "id": 50,
   "nazev": "Únikovka: Únik z Alcatrazu",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni"],
+  "tema": "hadanky"
 },
 {
   "id": 51,
   "nazev": "Detektivní únikovka: Leopold – Leopoldův osud",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-  "tema": "detektivní"
+  "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
+  "tema": "detektivni"
 },
 {
   "id": 52,
   "nazev": "Detektivní únikovka: Leopold – Bílý spánek",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní", "příběhová"],
-  "tema": "detektivní"
+  "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+  "tema": "detektivni"
 },
 {
   "id": 53,
   "nazev": "Sherlock: Smrt za zvuku ohňostrojů",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["deduktivní"],
-  "tema": "detektivní"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["deduktivni"],
+  "tema": "detektivni"
 },
 {
   "id": 54,
   "nazev": "IQ Stars",
   "pocet_hracu": ["pro jednoho"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["logická"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["logicka"],
+  "tema": "hadanky"
 },
 {
   "id": 55,
   "nazev": "Sherlock: Prokletá soška",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["deduktivní"],
-  "tema": "detektivní"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["deduktivni"],
+  "tema": "detektivni"
 },
 {
   "id": 56,
   "nazev": "Mezi dvěma zámky šíleného krále Ludvíka",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická", "rodinná"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka", "rodinna"],
   "tema": "historie"
 },
 {
   "id": 57,
   "nazev": "Sherlock: Poslední výzva",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["deduktivní"],
-  "tema": "detektivní"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["deduktivni"],
+  "tema": "detektivni"
 },
 {
   "id": 58,
   "nazev": "Rising Sun",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "120+ minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["strategická"],
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["strategicka"],
   "tema": "fantasy"
 },
 {
   "id": 59,
   "nazev": "Quadropolis",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická", "ekonomická"],
-  "tema": "současnost"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka", "ekonomicka"],
+  "tema": "soucasnost"
 },
 {
   "id": 60,
   "nazev": "Paranormální detektivové",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["deduktivní", "kooperativní", "párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["deduktivni", "kooperativni", "party"],
   "tema": "tajemno"
 },
 {
   "id": 61,
   "nazev": "Nightmare: Hororové dobrodružství",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["příběhová", "párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["pribehova", "party"],
   "tema": "tajemno"
 },
 {
   "id": 62,
   "nazev": "Munchkin",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party", "rodinna"],
   "tema": "fantasy"
 },
 {
   "id": 63,
   "nazev": "Labužníci",
-  "pocet_hracu": ["pro dva","malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva","mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty", "rodinná"],
-  "tema": "jídlo"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party", "rodinna"],
+  "tema": "jidlo"
 },
 {
   "id": 64,
   "nazev": "Descent: Výpravy do temnot – Stíny Nerekhallu",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "120+ minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["kooperativní", "příběhová", "strategická"],
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["kooperativni", "priběhova", "strategicka"],
   "tema": "fantasy"
 },
 {
   "id": 65,
   "nazev": "Descent: Výpravy do temnot – Labyrint zkázy",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "120+ minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["kooperativní", "příběhová", "strategická"],
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["kooperativni", "pribehova", "strategicka"],
   "tema": "fantasy"
 },
 {
   "id": 66,
   "nazev": "Decrypto",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["deduktivní", "párty"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["deduktivni", "party"],
+  "tema": "hadanky"
 },
 {
   "id": 67,
   "nazev": "Coatl",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["logická", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["logicka", "rodinna"],
   "tema": "fantasy"
 },
 {
@@ -608,278 +608,278 @@
   "nazev": "Odhodlání: Normandie",
   "pocet_hracu": ["pro dva"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka"],
   "tema": "historie"
 },
 {
   "id": 69,
   "nazev": "Pharaon",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická", "rodinná"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka", "rodinna"],
   "tema": "historie"
 },
 {
   "id": 70,
   "nazev": "Spiknutí: Království hlubiny",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka"],
   "tema": "fantasy"
 },
 {
   "id": 71,
   "nazev": "Descent: Výpravy do temnot – 2. edice",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "120+ minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["kooperativní", "příběhová", "strategická"],
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["kooperativni", "pribehova", "strategicka"],
   "tema": "fantasy"
 },
 {
   "id": 72,
   "nazev": "Sid Meier’s Civilization: Desková hra",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "120+ minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["strategická", "ekonomická"],
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["strategicka", "ekonomicka"],
   "tema": "historie"
 },
 {
   "id": 73,
   "nazev": "Time’s Up! Celebrity",
-  "pocet_hracu": ["větší skupina (5+)"],
+  "pocet_hracu": ["vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party"],
   "tema": "popkultura"
 },
 {
   "id": 74,
   "nazev": "Time’s Up! Rodina",
-  "pocet_hracu": ["větší skupina (5+)"],
+  "pocet_hracu": ["vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party", "rodinna"],
   "tema": null
 },
 {
   "id": 75,
   "nazev": "Příběhy z kostek: Akce",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["příběhová", "párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["pribehova", "party"],
   "tema": null
 },
 {
   "id": 76,
   "nazev": "Le Havre",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "120+ minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["strategická", "ekonomická"],
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["strategicka", "ekonomicka"],
   "tema": "historie"
 },
 {
   "id": 77,
   "nazev": "Cestování s Jiřím Kolbabou",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "rodinná"],
-  "tema": "dobrodružství"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "rodinna"],
+  "tema": "dobrodruzstvi"
 },
 {
   "id": 78,
   "nazev": "Únikovka: Závod s časem",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
-  "tema": "hádanky"
+  "typ_hry": ["kooperativni", "deduktivni"],
+  "tema": "hadanky"
 },
 {
   "id": 79,
   "nazev": "Únikovka: Za oponou",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni"],
+  "tema": "hadanky"
 },
 {
   "id": 80,
   "nazev": "Únikovka: Záhada Eldorada",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni"],
+  "tema": "hadanky"
 },
 {
   "id": 81,
   "nazev": "Víkend",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party"],
   "tema": null
 },
 {
   "id": 82,
   "nazev": "Hadara",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická", "ekonomická"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka", "ekonomicka"],
   "tema": "historie"
 },
 {
   "id": 83,
   "nazev": "Mysterium",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni"],
   "tema": "tajemno"
 },
 {
   "id": 84,
   "nazev": "Escape Room: Úniková hra",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni"],
   "tema": "hádanky"
 },
 {
   "id": 85,
   "nazev": "Detektiv: Po stopách zločinu",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "120+ minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["deduktivní", "příběhová"],
-  "tema": "detektivní"
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["deduktivni", "pribehova"],
+  "tema": "detektivni"
 },
 {
   "id": 86,
   "nazev": "Hrdina v kostce",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["příběhová", "rodinná"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["pribehova", "rodinna"],
   "tema": "fantasy"
 },
 {
   "id": 87,
   "nazev": "Plyšová hlídka",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["příběhová", "rodinná"],
-  "tema": "dobrodružství"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["pribehova", "rodinna"],
+  "tema": "dobrodruzstvi"
 },
 {
   "id": 88,
   "nazev": "Pandemic",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "strategická"],
-  "tema": "současnost"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "strategicka"],
+  "tema": "soucasnost"
 },
 {
   "id": 89,
   "nazev": "Zázraky přírody",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "rodinná"],
-  "tema": "příroda"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostní", "rodinna"],
+  "tema": "priroda"
 },
 {
   "id": 90,
   "nazev": "Hospodský kvíz",
-  "pocet_hracu": ["větší skupina (5+)"],
+  "pocet_hracu": ["vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostní", "party"],
   "tema": "popkultura"
 },
 {
   "id": 91,
   "nazev": "Únikovka: Zkáza Londýna",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
-  "tema": "hádanky"
+  "typ_hry": ["kooperativni", "deduktivni"],
+  "tema": "hadanky"
 },
 {
   "id": 92,
   "nazev": "Time’s Up! Filmy",
-  "pocet_hracu": ["větší skupina (5+)"],
+  "pocet_hracu": ["vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party"],
   "tema": "popkultura"
 },
 {
   "id": 93,
   "nazev": "Timeline: Hudba & film",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "rodinna"],
   "tema": "popkultura"
 },
 {
   "id": 94,
   "nazev": "Timeline: Objevy",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "rodinná"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "rodinna"],
   "tema": "historie"
 },
 {
   "id": 95,
   "nazev": "Nájezdníci ze severu",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
+  "mira_premysleni": "premysleci hra",
   "typ_hry": ["strategická"],
-  "tema": "vikingové"
+  "tema": "vikingove"
 },
 {
   "id": 96,
   "nazev": "Mars 2049",
   "pocet_hracu": ["pro jednoho", "pro dva"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["logická"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["logicka"],
   "tema": "scifi"
 },
 {
   "id": 97,
   "nazev": "Obludárium",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party"],
   "tema": "fantasy"
 },
 {
   "id": 98,
   "nazev": "Dobyvatel",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická"],
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["strategicka"],
   "tema": "fantasy"
 },
 {
@@ -887,18 +887,18 @@
   "nazev": "Honba za prstenem",
   "pocet_hracu": ["pro dva"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "náročná hra",
-  "typ_hry": ["strategická"],
+  "mira_premysleni": "narocna hra",
+  "typ_hry": ["strategicka"],
   "tema": "fantasy"
 },
 {
   "id": 100,
   "nazev": "Cesta za štěstím",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["rodinná"],
-  "tema": "současnost"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["rodinna"],
+  "tema": "soucasnost"
 },
 {
   "id": 101,
@@ -912,86 +912,121 @@
 {
   "id": 102,
   "nazev": "Valhalla",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["strategická"],
-  "tema": "vikingové"
+  "mira_premysleni": "ppremysleci hra",
+  "typ_hry": ["strategicka"],
+  "tema": "vikingove"
 },
 {
   "id": 103,
   "nazev": "Česko: Otázky a odpovědi",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni"],
   "tema": null
 },
 {
   "id": 104,
   "nazev": "Jízdenky, prosím!",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["rodinná"],
-  "tema": "dobrodružství"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["rodinna"],
+  "tema": "dobrodruzstvi"
 },
 {
   "id": 105,
   "nazev": "Kronika zločinu",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["deduktivní", "příběhová"],
-  "tema": "detektivní"
+  "typ_hry": ["deduktivni", "pribehova"],
+  "tema": "detektivni"
 },
 {
   "id": 106,
   "nazev": "Krycí jména",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty", "deduktivní"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party", "deduktivní"],
   "tema": "popkultura"
 },
 {
   "id": 107,
   "nazev": "Zakázaný ostrov",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "30-60 minut",
-  "mira_premysleni": "oddechová hra",
+  "mira_premysleni": "oddechova hra",
   "typ_hry": ["kooperativní", "rodinná"],
-  "tema": "dobrodružství"
+  "tema": "dobrodruzstvi"
 },
 {
   "id": 108,
   "nazev": "Dokonalý pár",
-  "pocet_hracu": ["pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["párty"],
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["party"],
   "tema": null
 },
 {
   "id": 109,
   "nazev": "Tipni si! Na cesty – Lidské tělo",
-  "pocet_hracu": ["malá skupina (3-4)", "větší skupina (5+)"],
+  "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
   "herni_doba": "do 30 minut",
-  "mira_premysleni": "oddechová hra",
-  "typ_hry": ["vědomostní", "párty"],
-  "tema": "příroda"
+  "mira_premysleni": "oddechova hra",
+  "typ_hry": ["vedomostni", "party"],
+  "tema": "priroda"
 },
 {
   "id": 110,
   "nazev": "Únikovka: Loupež v Benátkách",
-  "pocet_hracu": ["pro jednoho", "pro dva", "malá skupina (3-4)"],
+  "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
-  "mira_premysleni": "přemýšlecí hra",
-  "typ_hry": ["kooperativní", "deduktivní"],
-  "tema": "hádanky"
+  "mira_premysleni": "premysleci hra",
+  "typ_hry": ["kooperativni", "deduktivni"],
+  "tema": "hadanky"
 }
+{
+    "id": 111,
+    "nazev": "Osud dobrodruha",
+    "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
+    "herni_doba": "60+ minut",
+    "mira_premysleni": "oodechova_hra",
+    "typ_hry": ["kooperativni", "deduktivni"],
+    "tema": "fantasy_mytologie"
+},
+{
+    "nazev": "Moje kavárnička",
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "30-60 minut",
+    "mira_premysleni": "oodechova_hra",
+    "typ_hry": ["rodinne"],
+    "tema": "jidlo"
+  },
+  {
+    "nazev": "Osmero",
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 30 minut",
+    "mira_premysleni": "premysleci_hra",
+    "zanr": ["strategicke"],
+    "tema": null
+  },
+  {
+    "nazev": "Řekni to květinou",
+    "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
+    "herni_doba": "do 15 minut",
+    "narocnost": "jednoducha",
+    "zanr": ["rodinne", "party"],
+    "tema": "priroda"
+  }
+
   ]
 }
+
 
 
 
