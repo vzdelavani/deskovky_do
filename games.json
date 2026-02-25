@@ -15,7 +15,7 @@
     "pocet_hracu": ["pro jednoho", "pro dva","mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
     "mira_premysleni": "premysleci hra",
-    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+    "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
     "tema": "historie"
   },
   {
@@ -33,7 +33,7 @@
     "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
     "mira_premysleni": "premysleci hra",
-    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+    "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
     "tema": "hadanky"
   },
   {
@@ -42,7 +42,7 @@
     "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
     "mira_premysleni": "premysleci hra",
-    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+    "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
     "tema": "detektivni"
   },
   {
@@ -51,7 +51,7 @@
     "pocet_hracu": ["pro jednoho", "pro dva","mala skupina (3-4)"],
     "herni_doba": "60-120 minut",
     "mira_premysleni": "premysleci hra",
-    "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+    "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
     "tema": "detektivni"
   },
   {
@@ -402,7 +402,7 @@
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "premysleci hra",
-  "typ_hry": ["deduktivni", "priběhova"],
+  "typ_hry": ["deduktivni", "pribehova"],
   "tema": "detektivni"
 },
 {
@@ -465,7 +465,7 @@
   "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)"],
   "herni_doba": "60-120 minut",
   "mira_premysleni": "premysleci hra",
-  "typ_hry": ["kooperativni", "deduktivni", "priběhova"],
+  "typ_hry": ["kooperativni", "deduktivni", "pribehova"],
   "tema": "detektivni"
 },
 {
@@ -1029,6 +1029,7 @@
 
   ]
 }
+
 
 
 
