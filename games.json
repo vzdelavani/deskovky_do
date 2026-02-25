@@ -989,7 +989,7 @@
   "mira_premysleni": "premysleci hra",
   "typ_hry": ["kooperativni", "deduktivni"],
   "tema": "hadanky"
-}
+},
 {
     "id": 111,
     "nazev": "Osud dobrodruha",
@@ -1026,6 +1026,7 @@
 
   ]
 }
+
 
 
 
