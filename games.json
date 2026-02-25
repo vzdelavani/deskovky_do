@@ -1004,7 +1004,7 @@
     "nazev": "Moje kavárnička",
     "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "30-60 minut",
-    "mira_premysleni": "oodechova hra",
+    "mira_premysleni": "odechova hra",
     "typ_hry": ["rodinna"],
     "tema": "jidlo"
   },
@@ -1013,7 +1013,7 @@
     "nazev": "Osmero",
     "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
     "herni_doba": "do 30 minut",
-    "mira_premysleni": "premysleci_hra",
+    "mira_premysleni": "premysleci hra",
     "typ_hry": ["strategicka"],
     "tema": null
   },
@@ -1029,6 +1029,7 @@
 
   ]
 }
+
 
 
 
