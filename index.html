@@ -181,25 +181,81 @@ button:hover {
 <script>
 let games = [];
 
+/* ==== ENUM + LABELS (oddělení dat od UI) ==== */
+
+const ENUM = {
+  tema: [
+    "historie",
+    "fantasy_mytologie",
+    "scifi",
+    "zvirata",
+    "sport",
+    "vikingove",
+    "priroda",
+    "popkultura",
+    "dobrodruzstvi",
+    "abstraktni",
+    "soucasnost",
+    "detektivni",
+    "hadanky",
+    "jidlo"
+  ]
+};
+
+const LABELS = {
+  tema: {
+    fantasy_mytologie: "Fantasy a mytologie",
+    scifi: "Sci-fi",
+    historie: "Historie",
+    zvirata: "Zvířata",
+    sport: "Sport",
+    vikingove: "Vikingové",
+    priroda: "Příroda",
+    popkultura: "Popkultura",
+    dobrodruzstvi: "Dobrodružství",
+    abstraktni: "Abstraktní",
+    soucasnost: "Současnost",
+    detektivni: "Detektivní",
+    hadanky: "Hádanky",
+    jidlo: "Jídlo"
+  }
+};
+
+
+/* ==== NAČTENÍ + NORMALIZACE ==== */
+
 fetch("./games.json")
   .then(res => res.json())
   .then(data => {
 
-    games = data.games.map(g => ({
-      ...g,
-      tema: g.tema?.trim(),               // odstraní mezery
-      mira_premysleni: g.mira_premysleni?.trim(),
-      typ_hry: g.typ_hry?.map(t => t.trim())
-    }));
+    games = data.games.map(g => {
+
+      const clean = {
+        ...g,
+        tema: g.tema?.trim().toLowerCase(),
+        mira_premysleni: g.mira_premysleni?.trim().toLowerCase(),
+        typ_hry: g.typ_hry?.map(t => t.trim().toLowerCase())
+      };
+
+      // Validace – upozorní na budoucí překlepy
+      if (clean.tema && !ENUM.tema.includes(clean.tema)) {
+        console.warn("Neznámé téma:", clean.nazev, clean.tema);
+      }
+
+      return clean;
+    });
 
     renderGames(games);
   });
+
+
+/* ==== RENDER ==== */
 
 function renderGames(list) {
   const results = document.getElementById("results");
   results.innerHTML = "";
 
-  if (list.length === 0) {
+  if (!list.length) {
     results.innerHTML = "<p>Žádné hry nevyhovují filtru.</p>";
     return;
   }
@@ -207,33 +263,43 @@ function renderGames(list) {
   list.forEach(game => {
     const div = document.createElement("div");
     div.classList.add("game-row");
+
     div.innerHTML = `
       <strong>${game.nazev}</strong><br>
-      Počet hráčů: ${game.pocet_hracu.join(", ")}<br>
-      Herní doba: ${game.herni_doba}<br>
-      Míra přemýšlení: ${game.mira_premysleni}<br>
-      Typ hry: ${game.typ_hry.join(", ")}<br>
-      Téma: ${game.tema ?? "—"}
+      Počet hráčů: ${game.pocet_hracu?.join(", ") ?? "—"}<br>
+      Herní doba: ${game.herni_doba ?? "—"}<br>
+      Míra přemýšlení: ${game.mira_premysleni ?? "—"}<br>
+      Typ hry: ${game.typ_hry?.join(", ") ?? "—"}<br>
+      Téma: ${LABELS.tema[game.tema] ?? game.tema ?? "—"}
       <hr>
     `;
+
     results.appendChild(div);
   });
 }
 
+
+/* ==== FILTR ==== */
+
 document.getElementById("search-btn").addEventListener("click", () => {
+
   const selHraci = document.getElementById("pocet-hracu").value;
   const selDoba = document.getElementById("herni-doba").value;
-  const selPremysleni = document.getElementById("mira-premysleni").value;
-  const selTyp = document.getElementById("typ-hry").value;
-  const selTema = document.getElementById("tema").value;
+  const selPremysleni = document.getElementById("mira-premysleni").value.toLowerCase();
+  const selTyp = document.getElementById("typ-hry").value.toLowerCase();
+  const selTema = document.getElementById("tema").value.toLowerCase();
 
   const filtered = games.filter(game => {
-    if (selHraci && !game.pocet_hracu.includes(selHraci)) return false;
-    if (selDoba && game.herni_doba !== selDoba) return false;
-    if (selPremysleni && game.mira_premysleni !== selPremysleni) return false;
-    if (selTyp && !game.typ_hry.includes(selTyp)) return false;
-    if (selTema && game.tema !== selTema) return false;
-    return true;
+
+    const matches = {
+      hraci: !selHraci || game.pocet_hracu?.includes(selHraci),
+      doba: !selDoba || game.herni_doba === selDoba,
+      mira: !selPremysleni || game.mira_premysleni === selPremysleni,
+      typ: !selTyp || game.typ_hry?.includes(selTyp),
+      tema: !selTema || game.tema === selTema
+    };
+
+    return Object.values(matches).every(Boolean);
   });
 
   renderGames(filtered);
