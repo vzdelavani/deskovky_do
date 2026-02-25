@@ -184,8 +184,15 @@ let games = [];
 fetch("./games.json")
   .then(res => res.json())
   .then(data => {
-    games = data.games;
-    renderGames(games);   // zobrazí vše hned po načtení
+
+    games = data.games.map(g => ({
+      ...g,
+      tema: g.tema?.trim(),               // odstraní mezery
+      mira_premysleni: g.mira_premysleni?.trim(),
+      typ_hry: g.typ_hry?.map(t => t.trim())
+    }));
+
+    renderGames(games);
   });
 
 function renderGames(list) {
