@@ -181,32 +181,31 @@ button:hover {
 <script>
 let games = [];
 
-/* ==== ENUM + LABELS (oddělení dat od UI) ==== */
-
-const ENUM = {
-  tema: [
-    "historie",
-    "fantasy_mytologie",
-    "scifi",
-    "zvirata",
-    "sport",
-    "vikingove",
-    "priroda",
-    "popkultura",
-    "dobrodruzstvi",
-    "abstraktni",
-    "soucasnost",
-    "detektivni",
-    "hadanky",
-    "jidlo"
-  ]
-};
+/* ===== LABELS (UI vrstva) ===== */
 
 const LABELS = {
+  mira: {
+    "oddechova hra": "Oddechová hra",
+    "premysleci hra": "Přemýšlecí hra",
+    "narocna hra": "Náročná hra"
+  },
+  typ: {
+    kooperativni: "Kooperativní",
+    deduktivni: "Deduktivní",
+    postrehova: "Postřehová",
+    vedomostni: "Vědomostní",
+    strategicka: "Strategická",
+    ekonomicka: "Ekonomická",
+    pribehova: "Příběhová",
+    rodinna: "Rodinná",
+    party: "Párty",
+    zavodni: "Závodní",
+    logicka: "Logická"
+  },
   tema: {
+    historie: "Historie",
     fantasy_mytologie: "Fantasy a mytologie",
     scifi: "Sci-fi",
-    historie: "Historie",
     zvirata: "Zvířata",
     sport: "Sport",
     vikingove: "Vikingové",
@@ -222,34 +221,24 @@ const LABELS = {
 };
 
 
-/* ==== NAČTENÍ + NORMALIZACE ==== */
+/* ===== NAČTENÍ + NORMALIZACE ===== */
 
 fetch("./games.json")
   .then(res => res.json())
   .then(data => {
 
-    games = data.games.map(g => {
-
-      const clean = {
-        ...g,
-        tema: g.tema?.trim().toLowerCase(),
-        mira_premysleni: g.mira_premysleni?.trim().toLowerCase(),
-        typ_hry: g.typ_hry?.map(t => t.trim().toLowerCase())
-      };
-
-      // Validace – upozorní na budoucí překlepy
-      if (clean.tema && !ENUM.tema.includes(clean.tema)) {
-        console.warn("Neznámé téma:", clean.nazev, clean.tema);
-      }
-
-      return clean;
-    });
+    games = data.games.map(g => ({
+      ...g,
+      tema: g.tema?.trim().toLowerCase(),
+      mira_premysleni: g.mira_premysleni?.trim().toLowerCase(),
+      typ_hry: g.typ_hry?.map(t => t.trim().toLowerCase())
+    }));
 
     renderGames(games);
   });
 
 
-/* ==== RENDER ==== */
+/* ===== RENDER ===== */
 
 function renderGames(list) {
   const results = document.getElementById("results");
@@ -263,7 +252,7 @@ function renderGames(list) {
   list.forEach(game => {
 
     const miraLabel =
-      LABELS.mira?.[game.mira_premysleni] ?? "—";
+      LABELS.mira?.[game.mira_premysleni] ?? game.mira_premysleni ?? "—";
 
     const typLabel =
       game.typ_hry
@@ -271,7 +260,7 @@ function renderGames(list) {
         .join(", ") ?? "—";
 
     const temaLabel =
-      LABELS.tema?.[game.tema] ?? "—";
+      LABELS.tema?.[game.tema] ?? game.tema ?? "—";
 
     const div = document.createElement("div");
     div.classList.add("game-row");
@@ -291,7 +280,7 @@ function renderGames(list) {
 }
 
 
-/* ==== FILTR ==== */
+/* ===== FILTR ===== */
 
 document.getElementById("search-btn").addEventListener("click", () => {
 
@@ -303,15 +292,13 @@ document.getElementById("search-btn").addEventListener("click", () => {
 
   const filtered = games.filter(game => {
 
-    const matches = {
-      hraci: !selHraci || game.pocet_hracu?.includes(selHraci),
-      doba: !selDoba || game.herni_doba === selDoba,
-      mira: !selPremysleni || game.mira_premysleni === selPremysleni,
-      typ: !selTyp || game.typ_hry?.includes(selTyp),
-      tema: !selTema || game.tema === selTema
-    };
+    if (selHraci && !game.pocet_hracu?.includes(selHraci)) return false;
+    if (selDoba && game.herni_doba !== selDoba) return false;
+    if (selPremysleni && game.mira_premysleni !== selPremysleni) return false;
+    if (selTyp && !game.typ_hry?.includes(selTyp)) return false;
+    if (selTema && game.tema !== selTema) return false;
 
-    return Object.values(matches).every(Boolean);
+    return true;
   });
 
   renderGames(filtered);
