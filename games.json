@@ -373,7 +373,7 @@
   "id": 42,
   "nazev": "Similo: Strašidla",
   "pocet_hracu": ["pro dva", "mala skupina (3-4)"],
-  "herni_doba": "do 30 minut",
+  "herni_doba": "do 15 minut",
   "mira_premysleni": "oddechova hra",
   "typ_hry": ["deduktivni", "kooperativni"],
   "tema": "tajemno"
@@ -670,7 +670,7 @@
   "id": 75,
   "nazev": "Příběhy z kostek: Akce",
   "pocet_hracu": ["pro jednoho", "pro dva", "mala skupina (3-4)", "vetsi skupina (5+)"],
-  "herni_doba": "do 30 minut",
+  "herni_doba": "do 15 minut",
   "mira_premysleni": "oddechova hra",
   "typ_hry": ["pribehova", "party"],
   "tema": null
@@ -832,7 +832,7 @@
   "id": 93,
   "nazev": "Timeline: Hudba & film",
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
-  "herni_doba": "do 30 minut",
+  "herni_doba": "do 15 minut",
   "mira_premysleni": "oddechova hra",
   "typ_hry": ["vedomostni", "rodinna"],
   "tema": "popkultura"
@@ -841,7 +841,7 @@
   "id": 94,
   "nazev": "Timeline: Objevy",
   "pocet_hracu": ["mala skupina (3-4)", "vetsi skupina (5+)"],
-  "herni_doba": "do 30 minut",
+  "herni_doba": "do 15 minut",
   "mira_premysleni": "oddechova hra",
   "typ_hry": ["vedomostni", "rodinna"],
   "tema": "historie"
@@ -1029,6 +1029,7 @@
 
   ]
 }
+
 
 
 
