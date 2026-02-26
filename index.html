@@ -229,11 +229,12 @@ fetch("./games.json")
   .then(data => {
 
     games = data.games.map(g => ({
-      ...g,
-      tema: g.tema?.trim().toLowerCase(),
-      mira_premysleni: g.mira_premysleni?.trim().toLowerCase(),
-      typ_hry: g.typ_hry?.map(t => t.trim().toLowerCase())
-    }));
+  ...g,
+  tema: g.tema?.trim().toLowerCase(),
+  mira_premysleni: g.mira_premysleni?.trim().toLowerCase(),
+  typ_hry: g.typ_hry?.map(t => t.trim().toLowerCase()),
+  pocet_hracu: g.pocet_hracu?.map(p => p.trim())
+}));
 
     renderGames(games);
   });
