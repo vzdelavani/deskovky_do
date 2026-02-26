@@ -185,6 +185,12 @@ let games = [];
 /* ===== LABELS (UI vrstva) ===== */
 
 const LABELS = {
+  hraci: {
+  "pro jednoho": "Pro jednoho",
+  "pro dva": "Pro dva",
+  "mala skupina (3-4)": "Malá skupina (3–4)",
+  "vetsi skupina (5+)": "Větší skupina (5+)"
+  },
   mira: {
     "oddechova hra": "Oddechová hra",
     "premysleci hra": "Přemýšlecí hra",
@@ -267,9 +273,14 @@ function renderGames(list) {
     const div = document.createElement("div");
     div.classList.add("game-row");
 
+    const hraciLabel =
+      game.pocet_hracu
+        ?.map(h => LABELS.hraci?.[h] ?? h)
+        .join(", ") ?? "—";
+
     div.innerHTML = `
       <strong>${game.nazev}</strong><br>
-      Počet hráčů: ${game.pocet_hracu?.join(", ") ?? "—"}<br>
+      Počet hráčů: ${hraciLabel}<br>
       Herní doba: ${game.herni_doba ?? "—"}<br>
       Míra přemýšlení: ${miraLabel}<br>
       Typ hry: ${typLabel}<br>
